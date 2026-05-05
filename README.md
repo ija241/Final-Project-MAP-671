@@ -85,7 +85,7 @@ Download the full-resolution map:
 
 Access the full project files here:
 
-👉 [See here](https://github.com/ija241/Final-Project-MAP-671))
+👉 [See here](https://github.com/ija241/Final-Project-MAP-671)
 
 ---
 
