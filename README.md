@@ -69,7 +69,7 @@ The final map was projected using:
 
 View the project webpage here:
 
-👉 [Insert your GitHub Pages link here]
+👉 [See here](file:///Users/ishrat/Downloads/Map671/Final-Project-MAP-671/index.html)
 
 ---
 
@@ -77,7 +77,7 @@ View the project webpage here:
 
 Download the full-resolution map:
 
-👉 [Insert link to your 8000px image here]
+👉 ![Click Here](file:///Users/ishrat/Downloads/Map671/Final-Project-MAP-671/Final%20Maps/FinalMap8000px.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ Download the full-resolution map:
 
 Access the full project files here:
 
-👉 [Insert your GitHub repository link here]
+👉 [Link to my repository](https://github.com/ija241/Final-Project-MAP-671)
 
 ---
 
