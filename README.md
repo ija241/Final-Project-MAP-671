@@ -77,7 +77,7 @@ View the project webpage here:
 
 Download the full-resolution map:
 
-👉 ![Click Here](file:///Users/ishrat/Downloads/Map671/Final-Project-MAP-671/Final%20Maps/FinalMap8000px.jpg)
+👉 [Click Here](file:///Users/ishrat/Downloads/Map671/Final-Project-MAP-671/Final%20Maps/FinalMap8000px.jpg)
 
 ---
 
